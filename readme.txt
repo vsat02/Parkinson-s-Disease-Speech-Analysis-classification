@@ -1,0 +1,2 @@
+Project title: Parkinson's Disease Speech Analysis & classification
+Description: This repository contains code file(s) relating to the classification of Speech Raw Data into normal and Parkinson's Disease categories. 
